@@ -1,0 +1,373 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	background: #353541 no-repeat;
+	font-family: raleway medium; 
+	
+}
+
+@font-face {
+    font-family: raleway medium; 
+    src: url(../font/raleway_378.ttf);
+    font-style: normal;
+}
+.menu-list{
+	width: 218px; 
+}
+
+.menu-list, li  {
+	list-style: none;
+	
+}
+
+a{
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 18px;
+}
+ul>li:hover{
+	background: #303b4a;
+
+
+}
+
+
+.logo{
+	width: 278px;
+	height: 218px;
+	float: left;
+	margin-top: -126px;
+	overflow: hidden;
+	margin-top:-34px;
+
+}
+.logo img{
+	margin-top: -4px;
+}
+
+h1{
+
+	color: #ffffff;
+	font-family: ralemay;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: center;
+	overflow: hidden;
+}
+
+.menu-list{
+margin-top: -47px;
+}
+
+.text1{
+	text-align: center;
+	color: #cccccf;
+	font-size: 14px;
+}
+
+.btn{
+	width: 124px;
+	height: 33px;
+	background: url("../images/Hire_Btn.png")no-repeat;
+	background-color: transparent;
+	background-size: %100;
+	border-radius: 0px;
+	display: inline-block;
+	overflow: hidden;
+	margin-left: 450px;
+	text-align: center;
+	margin-top: 44px;
+	line-height: 31px;
+	float: left;
+
+}
+
+.line-menu{
+	width: 249px;
+	height: 1px;
+}
+
+.menu-list{
+margin-left: -17px;
+}
+
+.content{
+	width: 960px;
+	height: 3000px;
+	background: #ffffff;
+	margin: auto;
+	margin-top: -162px;
+	margin-left: 274px;
+}
+
+.text1, h1, .btn{
+	margin-right: 600px;
+}
+
+.About-Me{
+	margin-left: 100px;
+	overflow: hidden;
+}
+
+h2{
+	padding-top: 84px;
+	overflow: hidden;
+	color: #3e3e3e;
+	font-size: 24px;
+}
+
+.line-red{
+	margin-bottom: -150px;
+}
+
+.content-text1{
+	 font-family: raleway medium;
+	 font-style: 14px;
+}
+
+.info-block{
+	width: 402px;
+	height: 170px;
+	background: #f9f9f9;
+	margin-left: 100px;
+	font-family: raleway medium; 
+	font-size: 14px;
+}
+
+.block{
+	float: right;
+	margin-right: 74px;
+	margin-top: -315px;
+}
+
+h3{
+	overflow: hidden;
+	margin-top: 223px;
+	color: #3e3e3e;
+	font-size: 24px;
+	margin-left: 110px;
+}
+
+.line-red2{
+	margin-bottom: 16px;
+	margin-left: 116px;
+}
+
+.Section{
+	text-align: center;
+}
+.horizon{
+	width: 763px;
+	height: 1px;
+	background: #e5e5e5;
+	margin-left: 91px;
+}
+
+h4{
+	overflow: hidden;
+	margin-top: 119px;
+	color: #3e3e3e;
+	font-size: 24px;
+	margin-left: 110px;
+}
+
+.line-red3{
+	margin-bottom: 463px;
+	margin-left: 114px;
+}
+
+.Section2{
+	margin-left: -73px;
+
+}
+
+.conten2{
+	width: 960px;
+	height: 390px;
+	background: #1d1d24;
+	margin-top: 60px;
+}
+
+.h5{
+	color:ffffff;
+	font-size: 24px;
+	font-weight: bold;
+	margin-top: 2px;
+	margin-left: 372px
+}
+
+.line-red4{
+	margin-left: 372px;
+	margin-bottom: 243px;
+}
+
+form{
+	display: table-caption;
+	margin-left: 388px;
+}
+
+.Hire{
+	width: 124px;
+	height: 33px;
+	font-family: raleway medium; 
+	background-color: transparent;
+	background: url("../images/Rectangle-44-copy-3.png")no-repeat;
+	background-size: 100%;
+	cursor: pointer;
+	float: left;
+	border-radius: 0px;
+	display: inline-block;
+	color: #fff;
+	margin-left: 143px;
+
+}
+
+form{
+	margin-top: 80px;
+}
+
+h6{
+	color:3e3e3e;
+	font-size: 24px;
+	font-weight: bold;
+	white-space: nowrap;
+
+}
+
+.pole{
+	width: 250px;
+	height: 23px;
+	background: #fff;
+	border: solid 1px #353541;  
+	padding-left: 13px;
+	margin-bottom: 20px;
+}
+
+.text-pole{
+	width: 250px;
+	height: 87px;
+	background: #fff;
+	border: solid 1px #353541;  
+	padding-left: 13px;
+	margin-bottom: 20px;	
+}
+
+.line-horizon{
+	overflow: hidden;
+	width: 1px;
+	height: 280px;
+	background: #cccccc;
+	margin-left: 762px;
+	margin-top: -320px;
+}
+
+.contakti{ 
+width: 100px;
+ }
+
+#Hmoe{
+	width: 32px;
+	height: 32px;
+	overflow: hidden;
+	margin-right: 1200px;
+	margin-bottom: 100px;
+
+}
+.icon{
+	overflow: hidden;
+	margin-top: -285px;
+	margin-left: 805px;
+	height: 300px;
+
+}
+.Home{
+	margin-bottom: 75px;
+}
+
+.Mail{
+	margin-bottom: 53px;
+}
+
+.Phone{
+	margin-bottom: -74px
+}
+
+.Location{
+	margin-left: 867px;
+	margin-top: -315px;
+}
+
+.street{
+	margin-left: 867px;
+	margin-top: 20px;
+	font-size: 11px;
+	white-space: nowrap;
+}
+
+.Email{
+	margin-left: 867px;
+	margin-top: 63px;
+	
+}
+
+.junaed{
+	margin-left: 867px;
+	margin-top: 20px;
+	font-size: 11px;	
+}
+
+.Call{
+	margin-left: 867px;
+	margin-top: 95px;
+	white-space: nowrap;
+
+}
+
+.number{
+	margin-left: 867px;
+	margin-top: 12px;	
+	white-space: nowrap;
+	font-size: 11px;
+
+}
+
+.line-horizon2{
+	width: 790px;
+	height: 1px;
+	background: #e5e5e5;
+	margin-left: 360px;
+	margin-top: 1200px;
+}
+
+footer{
+	text-align: center;
+	margin: 0;
+	margin-right: 340px;
+	margin-top: -1027px;
+}
+
+.Copyright{
+	font-size: 11px;
+	color: #3e3e3e;
+}
+
+.Right{
+	margin-top: 899px;
+	margin-left: 397px;
+}
+.schema{
+	margin-top: -1793px;
+}
+
+.h5{
+	color: #fff;
+	margin-left: 125px;
+	margin-top: -366px;
+}
+
+.line-red4 {
+    margin-bottom: 243px;
+    margin-left: -687px;
+    overflow: hidden;
+}
